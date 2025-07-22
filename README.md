@@ -50,5 +50,8 @@ python todo_gui.py
 
  # 🙋‍♂️ Author
     Swapnil Kumar Pandey
+    
  📧 s07327947@gmail.com
- 🌐 github.com/swapnilpandey026
+ 
+ 🌐 guthub.com/swapnilpandey026
+
