@@ -34,8 +34,11 @@ This app helps you manage your daily tasks by allowing you to add, complete, and
 
 todo-list-python/
 │
+
 ├── todo_gui.py # Main application code
+
 ├── tasks.json # Data file (auto-created/saved)
+
 └── README.md # Project overview
 
 ## ▶️ How to Run
